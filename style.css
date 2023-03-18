@@ -126,19 +126,19 @@ a:after{
     gap: 1rem;
 }
 .bg1{
-    background: url("img/a.jpg");
+    background: url("./img/a.jpg");
 }
 .bg2{
-    background: url("img/g.jpg");
+    background: url("./img/g.jpg");
 }
 .bg3{
-    background: url("img/h.jpg");
+    background: url("./img/h.jpg");
 }
 .bg4{
-    background: url("img/aaa.jpg");
+    background: url("./img/aaa.jpg");
 }
 .bg5{
-    background: url("img/aa.jpg");
+    background: url("./img/aa.jpg");
 }
 
 .box >div {
